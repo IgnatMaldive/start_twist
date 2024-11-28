@@ -1,9 +1,8 @@
-## StarTwist, by Srcbook
+## StarTwist
 
-This app was created using https://srcbook.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+![Game Screenshot](screen.jpg)
 
-To run the devserver:
+To run the game:
 ```
 npm install
 npm run dev
